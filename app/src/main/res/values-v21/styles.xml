@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="StonyBrookSHPE" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">#FFFFFF</item>
+        <item name="android:colorPrimaryDark">#182857</item>
+        <item name="android:colorAccent">#182857</item>
+        <item name="android:colorBackground">#F9F9F9</item>
+        <item name="android:colorForeground">#182857</item>
+    </style>
+
+</resources>
